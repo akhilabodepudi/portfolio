@@ -1,0 +1,5 @@
+.DS_Store
+*.docx
+portfolio-design-preview.png
+.ref/
+.venv/
